@@ -679,6 +679,11 @@ a {
   top: -20px;
 }
 
+.header-navigation {
+  background-color: #0F33F0;
+  border-top: 1px solid white;
+}
+
 @media (max-width: 756px) {
   .heading-contact-container {
     font-size: 14px;
